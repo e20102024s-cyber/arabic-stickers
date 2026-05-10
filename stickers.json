@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "ستيكرات مضحكة",
+    "folder": "ستيكرات_مضحكة",
+    "tray": "tray.png",
+    "stickers": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ستيكرات العيد",
+    "folder": "ستيكرات_العيد",
+    "tray": "tray.png",
+    "stickers": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ]
+  }
+]
