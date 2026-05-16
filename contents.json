@@ -6,7 +6,7 @@
       "identifier": "arabic_pack",
       "name": "Arabic Stickers",
       "publisher": "Emad",
-      "tray_image_file": "tray.png",
+      "tray_image_file": "tray.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -19,6 +19,10 @@
         {
           "image_file": "2.webp",
           "emojis": ["😂"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😢"]
         }
       ]
     }
