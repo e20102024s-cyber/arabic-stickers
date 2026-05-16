@@ -6,30 +6,30 @@
       "identifier": "eid_pack",
       "name": "ستيكرات العيد",
       "publisher": "Emad",
-      "tray_image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/eid_pack/tray.webp",
+      "tray_image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/tray.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/eid_pack/1.webp", "emojis": ["🎉"] },
-        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/eid_pack/2.webp", "emojis": ["😀"] },
-        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/eid_pack/3.webp", "emojis": ["😂"] }
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/1.webp", "emojis": ["🎉"] },
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/2.webp", "emojis": ["😀"] },
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/3.webp", "emojis": ["😂"] }
       ]
     },
     {
       "identifier": "funny_pack",
       "name": "ستيكرات مضحكة",
       "publisher": "Emad",
-      "tray_image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/funny_pack/tray.webp",
+      "tray_image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/tray.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/funny_pack/1.webp", "emojis": ["😂"] },
-        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/funny_pack/2.webp", "emojis": ["😅"] },
-        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/funny_pack/3.webp", "emojis": ["🤣"] }
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/1.webp", "emojis": ["😂"] },
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/2.webp", "emojis": ["😅"] },
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/3.webp", "emojis": ["🤣"] }
       ]
     }
   ]
