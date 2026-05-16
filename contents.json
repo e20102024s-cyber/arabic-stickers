@@ -14,7 +14,8 @@
       "stickers": [
         { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/1.webp", "emojis": ["🎉"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/2.webp", "emojis": ["😀"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/3.webp", "emojis": ["😂"] }
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/eid_pack/3.webp", "emojis": ["😂"] },
+		{ "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/4.webp", "emojis": ["🤣"] }
       ]
     },
     {
@@ -29,7 +30,8 @@
       "stickers": [
         { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/1.webp", "emojis": ["😂"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/2.webp", "emojis": ["😅"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/3.webp", "emojis": ["🤣"] }
+        { "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/3.webp", "emojis": ["🤣"] },
+		{ "image_file": "https://cdn.jsdelivr.net/gh/e20102024s-cyber/arabic-stickers/funny_pack/4.webp", "emojis": ["🤣"] }
       ]
     }
   ]
