@@ -3,27 +3,33 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "arabic_pack",
-      "name": "Arabic Stickers",
+      "identifier": "eid_pack",
+      "name": "ستيكرات العيد",
       "publisher": "Emad",
-      "tray_image_file": "tray.webp",
+      "tray_image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D9%8A%D8%AF/tray.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": ["😀"]
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": ["😂"]
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": ["😢"]
-        }
+        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D9%8A%D8%AF/1.webp", "emojis": ["🎉"] },
+        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D9%8A%D8%AF/2.webp", "emojis": ["😀"] },
+        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D9%8A%D8%AF/3.webp", "emojis": ["😂"] }
+      ]
+    },
+    {
+      "identifier": "funny_pack",
+      "name": "ستيكرات مضحكة",
+      "publisher": "Emad",
+      "tray_image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D9%85%D8%B6%D8%AD%D9%83%D8%A9/tray.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D9%85%D8%B6%D8%AD%D9%83%D8%A9/1.webp", "emojis": ["😂"] },
+        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D9%85%D8%B6%D8%AD%D9%83%D8%A9/2.webp", "emojis": ["😅"] },
+        { "image_file": "https://raw.githubusercontent.com/e20102024s-cybe/arabic-stickers/main/%D8%B3%D8%AA%D9%8A%D9%83%D8%B1%D8%A7%D8%AA_%D9%85%D8%B6%D8%AD%D9%83%D8%A9/3.webp", "emojis": ["🤣"] }
       ]
     }
   ]
